@@ -1,0 +1,3 @@
+Integer:100 
+ String:Hello, Uni! This is your Dipaak being grateful for what all she has... 
+ Float:5.55
